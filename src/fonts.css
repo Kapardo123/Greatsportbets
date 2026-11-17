@@ -1,0 +1,19 @@
+/* Fonty hostowane lokalnie (Fontsource, licencja OFL) – tylko alfabet łaciński + polskie znaki */
+@import '@fontsource/big-shoulders-display/latin-600';
+@import '@fontsource/big-shoulders-display/latin-ext-600';
+@import '@fontsource/big-shoulders-display/latin-800';
+@import '@fontsource/big-shoulders-display/latin-ext-800';
+@import '@fontsource/big-shoulders-display/latin-900';
+@import '@fontsource/big-shoulders-display/latin-ext-900';
+@import '@fontsource/archivo/latin-400';
+@import '@fontsource/archivo/latin-ext-400';
+@import '@fontsource/archivo/latin-500';
+@import '@fontsource/archivo/latin-ext-500';
+@import '@fontsource/archivo/latin-600';
+@import '@fontsource/archivo/latin-ext-600';
+@import '@fontsource/archivo/latin-700';
+@import '@fontsource/archivo/latin-ext-700';
+@import '@fontsource/jetbrains-mono/latin-500';
+@import '@fontsource/jetbrains-mono/latin-ext-500';
+@import '@fontsource/jetbrains-mono/latin-700';
+@import '@fontsource/jetbrains-mono/latin-ext-700';
